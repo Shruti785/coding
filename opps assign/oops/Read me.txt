@@ -1,0 +1,9 @@
+Personal Assistant
+Note-The espeak folder should be present in the same folder as the code to convert text to speech 
+1.Enter the password-'donkey'
+2.Enter hello and ask time
+3.Enter your query for eg-manage finances
+4.Select one of options and enter the data
+5.Come back to main menu by selecting one of the options
+6.Enter query again ie.set reminder or list reminders to view your previous reminders
+7.It can also open google,youtube,notepad or any specific file by writing open book/google etc
