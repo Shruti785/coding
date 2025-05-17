@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     bool divisorGame(int n) {
         vector<bool> dp(n + 1, false);
@@ -14,5 +14,12 @@ public:
         }
 
         return dp[n];
+    }
+};*/
+
+class Solution {
+public:
+    bool divisorGame(int n) {
+       return n % 2 == 0;
     }
 };
